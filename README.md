@@ -193,7 +193,3 @@ Procura helps supply chain professionals:
 - Analyse supplier performance.
 - Validate business assumptions using statistical testing.
 - Support data-driven decision-making.
-
----
-
-## 🌟 Get Started by Selecting a Module from the Sidebar!
