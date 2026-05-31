@@ -3,23 +3,23 @@ This Streamlit app is designed to provide advanced analytics and data modelling 
 With this app, users can explore forecasting, inventory optimisation, customer & product segmentation, and statistical analysis to enhance decision-making in supply chain operations.
 
 ## 🏗️ Project Structure
-SupplyChainDataModellingStreamlit
-├── .streamlit/
-│   └── config.toml
-├── assets/
-│   └── data/
-│       ├── DataGenerator.ipynb
-│       └── pharmaceutical_supply_chain.csv
-├── streamlit_app/
-│   ├── pages/
-│   │   ├── 01_1️⃣_Forecast_Demand.py
-│   │   ├── 02_2️⃣_Inventory_Optimisation.py
-│   │   ├── 03_3️⃣_Customer_Product_Segmentation.py
-│   │   └── 04_4️⃣_Hypothesis_Testing.py
-│   └── 00_ℹ️_Info.py
-├── LICENSE
-├── README.md
-└── requirements.txt
+SupplyChainDataModellingStreamlit 
+├── .streamlit/ 
+│   └── config.toml 
+├── assets/ 
+│   └── data/ 
+│       ├── DataGenerator.ipynb 
+│       └── pharmaceutical_supply_chain.csv 
+├── streamlit_app/ 
+│   ├── pages/ 
+│   │   ├── 01_1️⃣_Forecast_Demand.py 
+│   │   ├── 02_2️⃣_Inventory_Optimisation.py 
+│   │   ├── 03_3️⃣_Customer_Product_Segmentation.py 
+│   │   └── 04_4️⃣_Hypothesis_Testing.py 
+│   └── 00_ℹ️_Info.py 
+├── LICENSE 
+├── README.md 
+└── requirements.txt 
 
 ## 🛠️ Features of the App
 The application consists of four key modules, each designed to address specific supply chain challenges:
