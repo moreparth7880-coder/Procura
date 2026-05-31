@@ -2,7 +2,7 @@
 This Streamlit app is designed to provide advanced analytics and data modelling for supply chain management in the pharmaceutical industry.
 With this app, users can explore forecasting, inventory optimisation, customer & product segmentation, and statistical analysis to enhance decision-making in supply chain operations.
 
-🏗️ Project Structure
+## 🏗️ Project Structure
 SupplyChainDataModellingStreamlit
 ├── .streamlit/
 │   └── config.toml
@@ -21,7 +21,7 @@ SupplyChainDataModellingStreamlit
 ├── README.md
 └── requirements.txt
 
-🛠️ Features of the App
+## 🛠️ Features of the App
 The application consists of four key modules, each designed to address specific supply chain challenges:
 
 1️⃣ Forecast Future Demand (LSTM Model)
@@ -80,7 +80,7 @@ Test results with p-value comparison to α = 0.05.
 Decision to reject or fail to reject the null hypothesis.
 Visual representation of the test statistic and rejection zone.
 
-🎯 Why Use This App?
+## 🎯 Why Use This App?
 ✔️ Realistic Data Analysis: Built using a synthetic pharmaceutical supply chain dataset.
 ✔️ End-to-End Workflow: Covers forecasting, inventory planning, customer segmentation, and validation tests.
 ✔️ Business-Driven Insights: Helps identify demand trends, customer behaviour, and supplier performance.
